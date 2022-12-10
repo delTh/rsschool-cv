@@ -3,13 +3,12 @@
 **email: yadelth@ya.ru**
 
 **github: @delth**
-_________________________
+
 ## About me
 
 Hello and welcome!  
 I`m a middle php developer. My interests include js web development, UX design and other creative stuff.
 
--------------------------
 ## Сourses
 
  - [Web технологии](https://github.com/delTh/web_tech) 
