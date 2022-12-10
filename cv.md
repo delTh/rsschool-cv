@@ -18,8 +18,10 @@ I`m a middle php developer. My interests include js web development, UX design a
 ## My Certificate
 
 ![Web технологии](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-18-49.png)
-![Разработка веб сервиса на Java (часть 1)](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-20-05.png) 
-![Разработка веб сервиса на Java (часть 2)](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-20-53.png) 
+
+![Разработка веб сервиса на Java (часть 1)](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-20-05.png)
+
+![Разработка веб сервиса на Java (часть 2)](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-20-53.png)    
 
 ## Example code 
 
