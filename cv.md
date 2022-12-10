@@ -7,7 +7,7 @@ _________________________
 ## About me
 
 Hello and welcome!  
-I`m middle php developer. My interests include js web develop, UX design and other creative stuff.
+I`m a middle php developer. My interests include js web development, UX design and other creative stuff.
 
 -------------------------
 ## Сourses
@@ -17,7 +17,7 @@ I`m middle php developer. My interests include js web develop, UX design and oth
 
 ## My Certificate
 
-![Web технологии](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-18-49.png) 
+![Web технологии](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-18-49.png)
 ![Разработка веб сервиса на Java (часть 1)](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-20-05.png) 
 ![Разработка веб сервиса на Java (часть 2)](https://github.com/delTh/rsschool-cv/raw/gh-pages/images/2022-12-10_21-20-53.png) 
 
