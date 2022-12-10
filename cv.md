@@ -17,9 +17,9 @@ I`m middle php developer. My interests include js web develop, UX design and oth
 
 ## My Certificate
 
-![Web технологии](https://stepik.org/cert/21654) 
-![Разработка веб сервиса на Java (часть 1)](https://stepik.org/cert/18216) 
-![Разработка веб сервиса на Java (часть 2)](https://stepik.org/cert/21102) 
+![Web технологии](https://yadi.sk/i/AhIZu2Z15jTOfA) 
+![Разработка веб сервиса на Java (часть 1)](https://yadi.sk/i/9VXCexFU5UD9Cw) 
+![Разработка веб сервиса на Java (часть 2)](https://yadi.sk/i/5bL0d8aFYkfbuQ) 
 
 ## Exemple code 
 
